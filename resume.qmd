@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Ty Budvarson's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Ty Budvarson
+Data Science Major, Comunication Minor.
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
@@ -13,16 +13,16 @@ Physicist, Mathematician, Cambridge professor.
 
 ## Currently
 
-Standing on the shoulders of giants
+A student at BYUI
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Accounting and sql
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Anything.
 
 
 ## Education
